@@ -1,0 +1,12 @@
+De opdracht was om in Python 3 een webscanner te bouwen.
+
+Korte beschrijving opdracht:
+
+1. IP-adressen scannen
+2. TCP/UDP poorten scannen
+3. Banner grabben bij poorten die open zijn.
+4. Als er een keyword in voorkomt die je wilt zoeken (front-end), 
+dan wordt de socket-informatie geschreven in een XSLX (Excel) bestand.
+5. Banner omzetten naar een SHA1 hash.
+6. E-mail versturen naar contactpersoon dat er een HIT-zoekresultaat is gevonden.
+7. E-mail versturen met het Excel-bestand met alle HIT-zoekresultaten (in een rapport).
